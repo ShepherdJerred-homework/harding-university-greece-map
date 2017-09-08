@@ -1,0 +1,397 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "National Arcaeological Museum"
+      },
+      "geometry": {
+        "coordinates": [
+          23.732608,
+          37.988996
+        ],
+        "type": "Point"
+      },
+      "id": "01cbca095ea3a866577c881675867fd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Panathenaic Stadium"
+      },
+      "geometry": {
+        "coordinates": [
+          23.740948,
+          37.9684
+        ],
+        "type": "Point"
+      },
+      "id": "032ee28e7a2d6d4089ac31d594b16a0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "The Plaka"
+      },
+      "geometry": {
+        "coordinates": [
+          23.730055,
+          37.972846
+        ],
+        "type": "Point"
+      },
+      "id": "165a087ca80e0d934c5e8c71e9780ef6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Stadium in Olympia"
+      },
+      "geometry": {
+        "coordinates": [
+          21.633334,
+          37.639306
+        ],
+        "type": "Point"
+      },
+      "id": "1cec10f12346164a99dbce360b17960d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Erechtheion"
+      },
+      "geometry": {
+        "coordinates": [
+          23.725872,
+          37.9722
+        ],
+        "type": "Point"
+      },
+      "id": "245cdad323cd7ef81d33b1544d0ba7fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Corinth Museum"
+      },
+      "geometry": {
+        "coordinates": [
+          22.878485,
+          37.905214
+        ],
+        "type": "Point"
+      },
+      "id": "2ac52936937f0674773b5cae7e5b8ab9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tomb of the Athenians"
+      },
+      "geometry": {
+        "coordinates": [
+          23.961045,
+          38.156788
+        ],
+        "type": "Point"
+      },
+      "id": "38b2d5a9964f6b2fa68d298247dbbd36"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ancient Philippi"
+      },
+      "geometry": {
+        "coordinates": [
+          24.340404,
+          41.025462
+        ],
+        "type": "Point"
+      },
+      "id": "4dcda61dce4e070980ce9ca1f6dfa27d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tomb of Agamemnon"
+      },
+      "geometry": {
+        "coordinates": [
+          22.753698,
+          37.726831
+        ],
+        "type": "Point"
+      },
+      "id": "4de4c728dbd266c1c26508a696887a57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Thessaloniki"
+      },
+      "geometry": {
+        "coordinates": [
+          22.93443,
+          40.640437
+        ],
+        "type": "Point"
+      },
+      "id": "4ebdf792343db5702eb49e93798d9e54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mars Hill"
+      },
+      "geometry": {
+        "coordinates": [
+          23.723346,
+          37.972247
+        ],
+        "type": "Point"
+      },
+      "id": "5a62424bcb22fd3948a2486c999c085d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Ancient Mycenae"
+      },
+      "geometry": {
+        "coordinates": [
+          22.75439,
+          37.729163
+        ],
+        "type": "Point"
+      },
+      "id": "5d174a890316ffb13490f06147713da2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Temple of Apollo"
+      },
+      "geometry": {
+        "coordinates": [
+          22.879197,
+          37.906051
+        ],
+        "type": "Point"
+      },
+      "id": "72186d8a9c65f2d72da9a59589f9acc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Tomb of the Unknown Soldier"
+      },
+      "geometry": {
+        "coordinates": [
+          23.736332,
+          37.975357
+        ],
+        "type": "Point"
+      },
+      "id": "73811301c628950e4659497b56c0836d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Colossus of Rhodes"
+      },
+      "geometry": {
+        "coordinates": [
+          28.22587,
+          36.451008
+        ],
+        "type": "Point"
+      },
+      "id": "7d6e16daafd3c239c18d822cd943ed5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Parthenon"
+      },
+      "geometry": {
+        "coordinates": [
+          23.726639,
+          37.971515
+        ],
+        "type": "Point"
+      },
+      "id": "7f475bed46e3e243b9f0d523c7ae15ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Acrocorinth"
+      },
+      "geometry": {
+        "coordinates": [
+          22.87351,
+          37.891309
+        ],
+        "type": "Point"
+      },
+      "id": "81ab7530fac92364db76a751d40b5bbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Meteora"
+      },
+      "geometry": {
+        "coordinates": [
+          21.632164,
+          39.721866
+        ],
+        "type": "Point"
+      },
+      "id": "87e775e36c72f9a8c8cbb4320cb449b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saint Lydia's Baptistery"
+      },
+      "geometry": {
+        "coordinates": [
+          24.339342,
+          41.026597
+        ],
+        "type": "Point"
+      },
+      "id": "8b79d207d5f3ae64e0722fb1ec3a0bd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Acropolis Museum"
+      },
+      "geometry": {
+        "coordinates": [
+          23.728481,
+          37.968566
+        ],
+        "type": "Point"
+      },
+      "id": "8bb422589ea23ed4c938a72ce433a71a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Delphi"
+      },
+      "geometry": {
+        "coordinates": [
+          22.500477,
+          38.481041
+        ],
+        "type": "Point"
+      },
+      "id": "9c32310fde7579278d8efca4dc606a46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Rhodes Old Town"
+      },
+      "geometry": {
+        "coordinates": [
+          28.226523,
+          36.442784
+        ],
+        "type": "Point"
+      },
+      "id": "a130b3a63acbaa5da36f2405cc8cbbbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Temple of Zeus in Olympia"
+      },
+      "geometry": {
+        "coordinates": [
+          21.630198,
+          37.63797
+        ],
+        "type": "Point"
+      },
+      "id": "afb5a1a7e6b74c69317d491d04bd1a56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Vergina"
+      },
+      "geometry": {
+        "coordinates": [
+          22.316871,
+          40.486463
+        ],
+        "type": "Point"
+      },
+      "id": "c06d9603d7cc855b6ff14b5fdef14307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Temple of Poseidon"
+      },
+      "geometry": {
+        "coordinates": [
+          24.024668,
+          37.650217
+        ],
+        "type": "Point"
+      },
+      "id": "d6f7ebb3cc3a99703f5289e4e498cdb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Corinth Canal"
+      },
+      "geometry": {
+        "coordinates": [
+          22.983841,
+          37.93477
+        ],
+        "type": "Point"
+      },
+      "id": "d758a934dc315f5a9d7b3ed9dbc6fa6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Delphi Museum"
+      },
+      "geometry": {
+        "coordinates": [
+          22.499576,
+          38.480142
+        ],
+        "type": "Point"
+      },
+      "id": "fd57f8a0ee6fc424126e4495aa1e47b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Veria"
+      },
+      "geometry": {
+        "coordinates": [
+          22.201552,
+          40.524702
+        ],
+        "type": "Point"
+      },
+      "id": "fd7b0feb7be140b34faf845eb6837d13"
+    }
+  ],
+  "type": "FeatureCollection"
+}

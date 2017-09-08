@@ -1,0 +1,229 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Bethlehem"
+      },
+      "geometry": {
+        "coordinates": [
+          35.18756,
+          32.73287
+        ],
+        "type": "Point"
+      },
+      "id": "0455a29855c276e2be1fb3898547edc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Church of the Holy Sepulchre"
+      },
+      "geometry": {
+        "coordinates": [
+          35.229909,
+          31.778504
+        ],
+        "type": "Point"
+      },
+      "id": "1221b61548e4d4eec60203b3bcd90d7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Scale model of Israel"
+      },
+      "geometry": {
+        "coordinates": [
+          35.202233,
+          31.773248
+        ],
+        "type": "Point"
+      },
+      "id": "153c792d70e0693cafeb8eb7d89d34ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Nazareth"
+      },
+      "geometry": {
+        "coordinates": [
+          35.304693,
+          32.705265
+        ],
+        "type": "Point"
+      },
+      "id": "1d6437a333288977e87d5d75618807cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Western Wall"
+      },
+      "geometry": {
+        "coordinates": [
+          35.234397,
+          31.776691
+        ],
+        "type": "Point"
+      },
+      "id": "45d5d5ae8769ff39330ba939d4fd2568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mount of Olives"
+      },
+      "geometry": {
+        "coordinates": [
+          35.241783,
+          31.779529
+        ],
+        "type": "Point"
+      },
+      "id": "667dfc46a2421076c775f6128a2930d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Israel museum"
+      },
+      "geometry": {
+        "coordinates": [
+          35.203385,
+          31.771863
+        ],
+        "type": "Point"
+      },
+      "id": "69c3170186f28318c9ac600b526681c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Capernaum"
+      },
+      "geometry": {
+        "coordinates": [
+          35.575443,
+          32.880757
+        ],
+        "type": "Point"
+      },
+      "id": "73b1e397e38589cf2730a7ee620fb01d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Zedekiah's Cave"
+      },
+      "geometry": {
+        "coordinates": [
+          35.231022,
+          31.782259
+        ],
+        "type": "Point"
+      },
+      "id": "8f87311199c2dd81cc98735acfcccbf4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Garden of Gethsemane"
+      },
+      "geometry": {
+        "coordinates": [
+          35.239562,
+          31.779621
+        ],
+        "type": "Point"
+      },
+      "id": "9b4e7ab2a231465cb5ed8e1ed542777d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Dome of the Rock"
+      },
+      "geometry": {
+        "coordinates": [
+          35.235316,
+          31.778031
+        ],
+        "type": "Point"
+      },
+      "id": "b52ccee7f521d6eef12fcebfa68c81fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Caesarea Maritime"
+      },
+      "geometry": {
+        "coordinates": [
+          34.892388,
+          32.501879
+        ],
+        "type": "Point"
+      },
+      "id": "b5a225e8673bd072bc9be7222ce3d890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Garden Tomb"
+      },
+      "geometry": {
+        "coordinates": [
+          35.230274,
+          31.784001
+        ],
+        "type": "Point"
+      },
+      "id": "f0d71835804d2c1919d4ee9ae43d4cdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Mount of Beatitudes"
+      },
+      "geometry": {
+        "coordinates": [
+          35.556463,
+          32.881853
+        ],
+        "type": "Point"
+      },
+      "id": "fa0d62555abff7e657e44eba7107232b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sea of Galilee"
+      },
+      "geometry": {
+        "coordinates": [
+          35.588123,
+          32.807767
+        ],
+        "type": "Point"
+      },
+      "id": "fa6428b32342fb89e4c4e40a0573341b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Jericho"
+      },
+      "geometry": {
+        "coordinates": [
+          35.476999,
+          31.967215
+        ],
+        "type": "Point"
+      },
+      "id": "region.226427"
+    }
+  ],
+  "type": "FeatureCollection"
+}

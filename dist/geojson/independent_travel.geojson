@@ -1,0 +1,61 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "The British Library"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.127719,
+          51.529876
+        ],
+        "type": "Point"
+      },
+      "id": "4197b74a26d507adae100f896bf8480d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "The British Museum"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.126946,
+          51.519289
+        ],
+        "type": "Point"
+      },
+      "id": "479e10fdd1148c4191a5cd18d1be1fc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Edinburgh Castle"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.200475,
+          55.948699
+        ],
+        "type": "Point"
+      },
+      "id": "e4410be75813b17b26a86721dc5c0095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Cliffs of Moher"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.429155,
+          52.971797
+        ],
+        "type": "Point"
+      },
+      "id": "e7ac97c1ab5500648dcafb2f413c8107"
+    }
+  ],
+  "type": "FeatureCollection"
+}

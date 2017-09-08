@@ -1,0 +1,159 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Basilica of Saint Paul Outside the Walls"
+      },
+      "geometry": {
+        "coordinates": [
+          12.476777,
+          41.858696
+        ],
+        "type": "Point"
+      },
+      "id": "50cff4af150f4d87b3408f1c165970dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saint Peter's Square"
+      },
+      "geometry": {
+        "coordinates": [
+          12.457837,
+          41.90224
+        ],
+        "type": "Point"
+      },
+      "id": "8b440bde1822e98c8a55d2516b59397f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "San Giovanni in Laterano"
+      },
+      "geometry": {
+        "coordinates": [
+          12.505577,
+          41.88587
+        ],
+        "type": "Point"
+      },
+      "id": "9040ecb8122bdef66f011f42bbab98a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Jewish Ghetto"
+      },
+      "geometry": {
+        "coordinates": [
+          12.477993,
+          41.891961
+        ],
+        "type": "Point"
+      },
+      "id": "a110326f90f5eb2fae977bec4a20c0a8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Colosseum"
+      },
+      "geometry": {
+        "coordinates": [
+          12.492382,
+          41.890257
+        ],
+        "type": "Point"
+      },
+      "id": "a9b1b4b37dd9fe1403a240864eaa5f7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Sistine Chapel"
+      },
+      "geometry": {
+        "coordinates": [
+          12.454402,
+          41.902937
+        ],
+        "type": "Point"
+      },
+      "id": "ae0dbd70ab1be1b794a9aed665a9acf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Saint Peter's Basilica"
+      },
+      "geometry": {
+        "coordinates": [
+          12.453725,
+          41.902159
+        ],
+        "type": "Point"
+      },
+      "id": "b040d8cc9cc62d9b626e3ae8860e7583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Pantheon"
+      },
+      "geometry": {
+        "coordinates": [
+          12.476831,
+          41.898612
+        ],
+        "type": "Point"
+      },
+      "id": "cc0050d7cdaeecfb191233791b3ba93b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "The Catacombs of Saint Sebastian"
+      },
+      "geometry": {
+        "coordinates": [
+          12.515433,
+          41.855612
+        ],
+        "type": "Point"
+      },
+      "id": "d1d432551b3788976c25a5e682007ac9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Trevi Fountain"
+      },
+      "geometry": {
+        "coordinates": [
+          12.483284,
+          41.900977
+        ],
+        "type": "Point"
+      },
+      "id": "e37faa49692feeb850d097fd474ceb94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Roman Forum"
+      },
+      "geometry": {
+        "coordinates": [
+          12.485094,
+          41.892385
+        ],
+        "type": "Point"
+      },
+      "id": "f267f3e7da1395faf143bc4639c2f723"
+    }
+  ],
+  "type": "FeatureCollection"
+}
